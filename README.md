@@ -28,7 +28,7 @@ git clone https://github.com/seu-usuario/calculadora-comum.git
 
 Navegue até o diretório do projeto:
 
-cd calculadora-comum
+cd Calculadora
 
 Abra o arquivo index.html com seu navegador de preferência.
 
